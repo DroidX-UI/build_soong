@@ -275,6 +275,9 @@ com\.oplus\..*
 # Nothing adds
 com.nothing.*
 
+# DroidX-UI adds
+org\.droidx.*
+
 # QC adds
 com.qualcomm.qti
 com.quicinc.tcmiface
