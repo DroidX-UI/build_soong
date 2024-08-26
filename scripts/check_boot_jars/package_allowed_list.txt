@@ -293,3 +293,6 @@ vendor\.lineage\..*
 vendor\.lineage\.health.*
 vendor\.lineage\.livedisplay.*
 vendor\.lineage\.touch.*
+
+# LMODroid adds
+com\.libremobileos.*
